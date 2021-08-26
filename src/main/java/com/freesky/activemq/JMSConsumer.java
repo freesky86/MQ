@@ -14,6 +14,8 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 /**
  * 消息的消费者（接受者）
  * 
+ * https://xiaoliang.blog.csdn.net/article/details/48608237
+ * 
  * @author Max Zhang
  *
  */
